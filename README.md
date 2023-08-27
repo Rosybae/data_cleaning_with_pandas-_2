@@ -23,5 +23,5 @@ Travel dataset  https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7qmdG-b
 - Pandas
 
 ## Steps
-- Extracted the dataset
-- Cleaned the dataset
+- Extract dataset
+- Clean dataset
